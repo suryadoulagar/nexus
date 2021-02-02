@@ -1,3 +1,9 @@
 body {
     --nexus-color: #2c2f33;
+    overflow: hidden;
+}
+
+.app__body {
+    display: flex;
+    height: 100vh;
 }
