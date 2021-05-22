@@ -1,0 +1,9 @@
+ReactJS
+React Router
+React Context API
+Firebase Auth (Google Login)
+Realtime Database (Firebase)
+Material UI
+Flexbox
+CSS vairables
+Firebase deploy
