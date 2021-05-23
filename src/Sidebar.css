@@ -4,6 +4,9 @@
     background-color: var(--nexus-color);
     border-top: 1px solid gray;
     max-width: 260px;
+    overflow-y: auto;
+    top: 0;
+    bottom: 0;
 }
 
 .sidebar__info {
@@ -43,4 +46,9 @@
     font-size: 18px;
     background-color: white;
     border-radius: 999px;
+}
+
+.sidebar__info > h2 {
+    font-weight: bolder;
+    font-size: larger;
 }
